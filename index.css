@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Arial", serif;
+}
+
+.logo {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.title {
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: -70px;
+}
+
+.header {
+    position: absolute;
+    top: 0;
+    height: 250px;
+    width: 100%;
+    background: linear-gradient(to bottom,  #000842 11%,#ffffff 99%);
+    color: white;
+}
+
+.body {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    background-color: white;
+}
+
+.Text_block_1 {
+    float: left;
+    padding: 35px 30px;
+    margin: 10px 1000px 0 40px;
+    border: 7px solid deepskyblue;
+    border-radius: 100px;
+    background-color: #000842;
+    color: deepskyblue;
+}
+
+.Text_block_2 {
+    float: left;
+    padding: 35px 30px;
+    margin: -260px 550px 30px 520px;
+    border: 7px solid deepskyblue;
+    border-radius: 100px;
+    background-color: #000842;
+    color: deepskyblue;
+}
+
+.Text_block_3 {
+    float: left;
+    padding: 35px 30px;
+    margin: -330px 30px 30px 980px;
+    border: 7px solid deepskyblue;
+    border-radius: 100px;
+    background-color: #000842;
+    color: deepskyblue;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    height: 150px;
+    width: 100%;
+    border-top: 5px solid #000842;
+    background-color: white;
+}
+
+.contacts {
+    margin-left: 25%;
+    color: #000842;
+}
+
+.tr {
+    text-align: left;
+}
+
+.link{
+    color: #000842;
+}
